@@ -237,7 +237,7 @@
             ],
             "Resource": "*"
         },
-       {
+        {
             "Effect": "Allow",
             "Action": [
                 "elasticloadbalancing:SetWebAcl",
@@ -254,7 +254,6 @@
                 "elasticloadbalancing:ModifyLoadBalancerAttributes"
             ],
             "Resource": "*"
-        },
-
+         }
     ]
 }
